@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Retrofit tests" parallel="false">
+    <test name="test set">
+        <classes>
+           <class name="tests.ApiTest"/>
+        </classes>
+    </test>
+</suite>
